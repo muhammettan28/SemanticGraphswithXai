@@ -1,0 +1,10 @@
+/.DS_Store
+/.idea
+/__pycache__
+/archive
+/data
+/data copy
+analysis/.DS_Store
+*.graphml
+*.json
+/graph_files
