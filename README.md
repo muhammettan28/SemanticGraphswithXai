@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/25045253/README.md)
 # Android Malware Detection with Semantic Graph Analysis
 
 A comprehensive machine learning framework for detecting Android malware using API call graphs and temporal analysis. This project leverages semantic graph features extracted from APK files to train multiple ML models with high accuracy.
